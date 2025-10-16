@@ -1,2 +1,0 @@
-# jaka
-jaka XDK5
