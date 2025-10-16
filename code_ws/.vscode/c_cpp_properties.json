@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/**",
+                "/opt/ros/humble/include/geometry_msgs/**",
+                "/home/sunrise/code_ws/install/jaka_msgs/include/**",
+                "/home/sunrise/code_ws/src/jaka_ros2-main/src/jaka_driver/include/**",
+                "/home/sunrise/code_ws/src/jaka_ros2-main/src/jaka_planner/include/**",
+                "/usr/include/**",
+                "/opt/ros/humble/include/rclcpp/**",
+                "/opt/ros/humble/include/geometry_msgs/geometry_msgs/msg/detail"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-arm64",
+            "compilerPath": "/usr/bin/aarch64-linux-gnu-g++",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
